@@ -1,0 +1,36 @@
+
+.tr{
+    gap: 3rem;
+    border: 2rem;
+}
+.page_parent{
+    display: flex;
+    flex-direction: column;
+    padding: 2rem ;
+    gap: 2rem;
+    align-items: center;
+
+}
+
+.adminpageinput{
+    display: flex;
+    flex-direction: column;
+}
+
+.display h2{
+    color: black;
+}
+
+.display{
+    display: flex;
+    flex-direction: column;
+    color: grey;
+}
+.tr{
+    padding: 3rem;
+    color: red;
+}
+
+.table{
+    padding: 2rem 0 0 0;
+}

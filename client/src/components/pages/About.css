@@ -1,0 +1,22 @@
+.parent {
+    display: flex;
+    background-color: rgb(251, 186, 6);
+    width: 100%;
+
+}
+
+.left{
+    width: 60%;
+    height: 45vh;
+    background-color: red;
+}
+.left img{
+    width: 100%;
+    height: 45vh;
+}
+
+.right{
+    width: 100%;
+    height: 45vh;
+    background-color: rgb(251, 186, 6);
+}
